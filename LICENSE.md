@@ -1,4 +1,4 @@
-#  
+#  no-ban Scripts for hypershot offers the most advanced hypershot Script, with private server access and one-hit kill. Perfect for dominating any match.
 
 
 
